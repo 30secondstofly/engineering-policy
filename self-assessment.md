@@ -6,6 +6,7 @@ Ask yourself these questions to see how well you're dealing with the fundamental
 ## I.  Company
 1. Have we clearly articulated and written down our company vision and mission (and shared them with the team)?
 2. Can everyone on the team explain what the organization vision, mission and current goals are?
+3. Can everyone in the team explain the business model (value propositions, revenue model, competition, competitive advantages, operations) in few sentences?
 
 ## II. Development Methodology 
 ### Roles & Responsibilities 
@@ -85,3 +86,4 @@ Ask yourself these questions to see how well you're dealing with the fundamental
 1. What is our lead generation process? Are we measuring the ROI on different methods and adjusting accordingly, or spraying and praying?
 2. Have we thought through our interview process & pipeline? Do we have the right experience to vet candidates? If not, how do we compensate for this? Do we follow up on references?
 3. Once a hire is made, do we have a trial period? How long is it? Are expectations clearly communicated and performance measured?
+4. How do we make sure selected candidates feel passionate and willing to give blood, sweat and tears from the very beginning? Who is responsible for making the new team member passionate after he is selected?
