@@ -1,5 +1,5 @@
 # Engineering Self-Assessment
-Ask yourself these questions to see how well you're dealing with the fundamentals of running an engineering team. For maximum effect, ask "what are we doing about this?" as well as "why are we doing it this way?"
+Ask yourself these questions to see how well you're dealing with the fundamentals of running an engineering team. For maximum effect, ask "what are we doing about this?" as well as "why are we doing it this way?" To take it one step further, answer the questions relative to the various stages in the product lifecycle.
 
 > Want a challenge? Fork this repo and publish your answers! Use it as a base-point for discussions about process, a way to track how your processes are evolving, or onboarding documentation for new hires.
 
@@ -30,9 +30,12 @@ Ask yourself these questions to see how well you're dealing with the fundamental
 7. What do we do to make sure that engineering management has a vision for the organization and makes and measures progress toward that vision?
 8. How do we make sure that management builds strong, trusting relationships with their employees? How do we get feedback from employees, spot and prevent conflicts, and help them grow professionally?
 9. Have we identified the biggest knowledge and experience gaps in our engineering organization? Have we attracted and properly utilized advisors to fill those gaps?
+10. What is the size of your development team?
+11. What do you think you will need to change as the team expands? 
+12. What are the main factors that lead you to increase the size of your development team?
 
 ## III. Engineering Philosophy & Practices 
-###Principles 
+### Principles 
 1. What are the guiding principles of our engineering organization?
 2. What is the definition of “done” in the context of our development workflow?
 3. Can we clearly describe, defend and be proud of our architecture?
@@ -66,7 +69,7 @@ Ask yourself these questions to see how well you're dealing with the fundamental
 1. How do we track our service uptime?
 2. How are we notified if an error occurs?
 
-Security
+### Security
 1. What are the security policies our organization follows?
 2. Who has access to the production environment?
 3. Do we have a bug-bounty program?
